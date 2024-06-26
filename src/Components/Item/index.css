@@ -1,0 +1,26 @@
+.item-item{
+    padding: .2rem;
+    margin: .2rem;
+    display: flex;
+    gap: .8rem;
+
+    border-radius: .4rem;
+
+    align-items: center;
+    justify-content: space-around;
+}
+
+.item-namedate-container{
+    display: flex;
+    flex-direction: column;
+    gap: .2;
+}
+
+.item-x-icon {
+    height: 1.4rem;
+    width: 1.4rem;
+    margin: .2rem 0 .2rem .8rem;
+
+    position: fixed;
+    right: .4rem;
+}
